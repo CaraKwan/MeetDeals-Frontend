@@ -1,0 +1,25 @@
+.Upload{
+    width: 500px;
+}
+#upload_price{
+    width: 340px;
+    margin-left: 78px;
+}
+
+#upload_description{
+    height: 300px;
+    width: 340px;
+    margin-left: 7px;
+}
+
+.ant-col ant-form-item-control{
+    width: 340px;
+}
+
+.categoryMenu{
+    margin-left: 155px;
+}
+#upload_zipcode{
+    width: 340px;
+    margin-left: 60px;
+}

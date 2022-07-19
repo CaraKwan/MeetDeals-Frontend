@@ -1,0 +1,94 @@
+.main{
+    position: relative;
+}
+.header_home{
+    background-color: #0F1D64;
+    width: 100%;
+    align-items: center;
+    padding:5px 0;
+
+}
+
+.title_home{
+    background-color: #FBFBFB;
+    margin: 10px 20px;
+    width: fit-content;
+    padding: 2px 10px;
+    border-radius: 5px;;
+}
+
+.Homeheader_Buttons{
+    position: absolute;
+    right: 0;
+    margin-right: 5px;
+}
+.login-form {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+.login-form-button {
+    width: 300px;
+    background: #0F1D64;
+    top: 0px;
+}
+
+
+.child {
+    position: absolute;
+    left: 95px;
+    top: 35px;
+}
+
+.parent {
+    position: relative;
+    align-content: center;
+    top: -20px;
+}
+
+
+.register-form {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+.register-form-button {
+    width: 300px;
+    background: #0F1D64;
+    top: 0px;
+}
+
+.email {
+    width: 14px;
+    height: 14px;
+}
+
+.verify-form {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+.verify-form-button {
+    width: 300px;
+    background: #0F1D64;
+    top: 0px;
+}
+
+.login_button {
+    background: #0F1D64;
+    font-size: x-large;
+    color: #FBFBFB;
+    height: 50px;
+    width: 250px;
+    cursor: pointer;
+}
+.GoogleLogin {
+    margin-top: 35px;
+
+}
